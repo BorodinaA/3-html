@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    font-family: 'Roboto', sans-serif;
+    --text-color: rgb(80, 81, 85);
+    --border-color: #ccc;
+}
+
+.section__subtitle-dash {
+    color: var(--dash-color);
+}
