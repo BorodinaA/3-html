@@ -10,6 +10,18 @@
     --border-color: #ccc;
 }
 
-.section__subtitle-dash {
-    color: var(--dash-color);
+img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+body {
+    min-width: 320px;
+    overflow-x: hidden;
+    color: var(--text-color);
+}
+
+a {
+    text-decoration: none;
 }
